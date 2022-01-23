@@ -1,0 +1,6 @@
+bin/*
+.vs/*
+d3d-template/*.jpg
+d3d-template/*.mtl
+d3d-template/*.sdkmesh
+packages/*
