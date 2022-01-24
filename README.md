@@ -4,15 +4,15 @@
 
 Planet Simulation: 
 
-![Alt Text](assets/planet-large.gif)
+![Alt Text](assets/planet-medium.gif)
 
 Raptor Simulation:
 
-![Alt text](assets/raptor-large.gif)
+![Alt text](assets/raptor-medium.gif)
 
 Car Simulation:
 
-![Alt text](assets/car-large.gif)
+![Alt text](assets/car-medium.gif)
 
 Credit:
 High quality models to experiment with: https://free3d.com/3d-models/
